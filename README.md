@@ -4,10 +4,15 @@
 
 - Diuliano Vargas da Silveira - feat-adicionar-filmes-readme
 - Mariana Silva Nascimento dos Reis
-- Shaienne Oliveira dos Santos
-- Ícaro Leon Santos Vieira
+- Shaienne Oliveira dos Santos - feat-adicionar-filmes-readme
+- Ícaro Leon Santos Vieira - feat-adicionar-filmes-readme
 - Victor Yghor Simões dos Santos - feat-adicionar-filmes-readme, feat-adicionar-filmes-html
 - André Miranda
+
+## Documentação
+
+- Branchs: feat-nome-da-feature
+- Commits: add: explicação da feature em português
 
 ## Filmes
 
